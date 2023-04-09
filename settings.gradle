@@ -1,0 +1,2 @@
+rootProject.name = "PoznanTicket"
+include ':app'

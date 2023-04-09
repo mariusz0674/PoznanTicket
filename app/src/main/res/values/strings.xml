@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PoznanTicket</string>
+    <string name="coordinates">Coordinates:\n %s %s\n%s %s</string>
+    <string name="show_saved">Show saved</string>
+    <string name="show_saved_with_bikes">Show saved with bikes</string>
+    <string name="show_saved_with_racks">Show saved with racks</string>
+    <string name="clear_saved_and_list">Clear saved and list</string>
+    <string name="dummy_text">Very long name for preview purposes</string>
+    <string name="list_label">PoznanBike</string>
+    <string name="detail_label">Station Details</string>
+</resources>

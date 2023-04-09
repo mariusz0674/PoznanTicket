@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="poznan_blue">#ff2b4291</color>
+    <color name="poznan_blue_dark">#ff001c63</color>
+    <color name="poznan_blue_light">#ff606dc2</color>
+    <color name="poznan_blue_seconadary">#ff1d98db</color>
+    <color name="poznan_blue_seconadary_dark">#ff006aa9</color>
+    <color name="poznan_blue_seconadary_light">#ff67c9ff</color>
+    <color name="my_red">#E53935</color>
+    <color name="my_orange">#FFB300</color>
+    <color name="my_green">#7CB342</color>
+</resources>
